@@ -1,5 +1,11 @@
 # Hey! 👋
 
+```typescript
+/**
+ * TODO: Write a decent profile presentation!
+ */
+```
+
 ## About me
 
 **I usually write software that works.**
