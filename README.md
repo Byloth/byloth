@@ -14,17 +14,18 @@
 ### Communities
 
 [![Discord](https://img.shields.io/static/v1?color=5865F2&label=&logo=discord&logoColor=white&message=Discord&style=flat)](https://discord.gg/5QvHTwzvqW)
+[![Instagram](https://img.shields.io/static/v1?color=E4405F&label=&logo=instagram&logoColor=white&message=Instagram&style=flat)](https://www.instagram.com/bylothink/)
 [![Telegram](https://img.shields.io/static/v1?color=26A5E4&label=&logo=telegram&logoColor=white&message=Telegram&style=flat)](https://t.me/bylothink)
 [![Twitch](https://img.shields.io/static/v1?color=9146FF&label=&logo=twitch&logoColor=white&message=Twitch&style=flat)](https://www.twitch.tv/bylothink)
 
 ### Social
 
-[![Instagram](https://img.shields.io/static/v1?color=E4405F&label=&logo=instagram&logoColor=white&message=Instagram&style=flat)](https://www.instagram.com/i.byloth/)
+[![Instagram](https://img.shields.io/static/v1?color=E4405F&label=&logo=instagram&logoColor=white&message=Instagram&style=flat)](https://www.instagram.com/byloth.dev/)
 [![LinkedIn](https://img.shields.io/static/v1?color=0A66C2&label=&logo=linkedin&logoColor=white&message=LinkedIn&style=flat)](https://www.linkedin.com/in/byloth/)
 [![Mastodon](https://img.shields.io/static/v1?color=6364FF&label=&logo=mastodon&logoColor=white&message=Mastodon&style=flat)](https://mastodon.uno/@byloth)
 [![Spotify](https://img.shields.io/static/v1?color=1DB954&label=&logo=spotify&logoColor=white&message=Spotify&style=flat)](https://open.spotify.com/user/21q4g5zjmgfv5qctquiqawkgq)
 [![Steam](https://img.shields.io/static/v1?color=000000&label=&logo=steam&logoColor=white&message=Steam&style=flat)](https://steamcommunity.com/id/byloth/)
-[![Twitter](https://img.shields.io/static/v1?color=1DA1F2&label=&logo=twitter&logoColor=white&message=Twitter&style=flat)](https://twitter.com/iByloth)
+[![Twitter](https://img.shields.io/static/v1?color=1DA1F2&label=&logo=twitter&logoColor=white&message=Twitter&style=flat)](https://twitter.com/BylothDev)
 
 **I usually write software that works.**
 
