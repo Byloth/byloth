@@ -38,6 +38,7 @@
   <a href="https://www.instagram.com/bylothink/" title="Instagram"><img src="https://img.shields.io/static/v1?color=E4405F&label=&logo=instagram&logoColor=white&message=Instagram&style=flat" alt="Instagram logo" /></a>
   <a href="https://t.me/bylothink" title="Telegram"><img src="https://img.shields.io/static/v1?color=26A5E4&label=&logo=telegram&logoColor=white&message=Telegram&style=flat" alt="Telegram logo" /></a>
   <a href="https://www.twitch.tv/bylothink" title="Twitch"><img src="https://img.shields.io/static/v1?color=9146FF&label=&logo=twitch&logoColor=white&message=Twitch&style=flat" alt="Twitch logo" /></a>
+  <a href="https://www.youtube.com/@bylothink" title="YouTube"><img src="https://img.shields.io/static/v1?color=FF0000&label=&logo=youtube&logoColor=white&message=YouTube&style=flat" alt="YouTube logo" /></a>
 </div>
 
 ---
