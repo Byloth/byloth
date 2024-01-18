@@ -11,6 +11,8 @@
   <a href="https://open.spotify.com/user/21q4g5zjmgfv5qctquiqawkgq" title="Spotify"><img src="https://img.shields.io/static/v1?color=1DB954&label=&logo=spotify&logoColor=white&message=Spotify&style=flat" alt="Spotify Logo" /></a>
   <a href="https://steamcommunity.com/id/byloth/" title="Steam"><img src="https://img.shields.io/static/v1?color=000000&label=&logo=steam&logoColor=white&message=Steam&style=flat" alt="Steam Logo" /></a>
   <a href="https://twitter.com/byloth_dev" title="Twitter"><img src="https://img.shields.io/static/v1?color=1DA1F2&label=&logo=twitter&logoColor=white&message=Twitter&style=flat" alt="Twitter Logo" /></a>
+  <sup>|</sup>
+  <img src="https://komarev.com/ghpvc/?username=Byloth&abbreviated=true" />
 </div>
 
 <h2 align="center">
@@ -27,6 +29,19 @@
   </p>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Byloth&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byloth&hide=html&langs_count=10&layout=compact&bg_color=00000000&hide_border=true&text_color=86888b" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h3 align="center">
   <a href="https://github.com/Bylothink" title="Bylothink">
      Bylothink
@@ -39,21 +54,6 @@
   <a href="https://t.me/bylothink" title="Telegram"><img src="https://img.shields.io/static/v1?color=26A5E4&label=&logo=telegram&logoColor=white&message=Telegram&style=flat" alt="Telegram logo" /></a>
   <a href="https://www.twitch.tv/bylothink" title="Twitch"><img src="https://img.shields.io/static/v1?color=9146FF&label=&logo=twitch&logoColor=white&message=Twitch&style=flat" alt="Twitch logo" /></a>
   <a href="https://www.youtube.com/@bylothink" title="YouTube"><img src="https://img.shields.io/static/v1?color=FF0000&label=&logo=youtube&logoColor=white&message=YouTube&style=flat" alt="YouTube logo" /></a>
-</div>
-
-<p></p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Byloth&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byloth&hide=html&langs_count=10&layout=compact&bg_color=00000000&hide_border=true&text_color=86888b" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!--
@@ -70,3 +70,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://yhype.me/ -->
+![](https://hit.yhype.me/github/profile?user_id=14953974)
