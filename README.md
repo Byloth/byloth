@@ -41,11 +41,19 @@
   <a href="https://www.youtube.com/@bylothink" title="YouTube"><img src="https://img.shields.io/static/v1?color=FF0000&label=&logo=youtube&logoColor=white&message=YouTube&style=flat" alt="YouTube logo" /></a>
 </div>
 
----
+<p></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byloth&count_private=true&show_icons=true" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byloth&hide=html&langs_count=10&layout=compact" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Byloth&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&text_color=86888b" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byloth&hide=html&langs_count=10&layout=compact&bg_color=00000000&hide_border=true&text_color=86888b" alt="Byloth's GitHub Stats" title="Byloth's GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!--
