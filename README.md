@@ -10,7 +10,7 @@
   <a href="https://mastodon.uno/@byloth" title="Mastodon"><img src="https://img.shields.io/static/v1?color=6364FF&label=&logo=mastodon&logoColor=white&message=Mastodon&style=flat" alt="Mastodon Logo" /></a>
   <a href="https://open.spotify.com/user/21q4g5zjmgfv5qctquiqawkgq" title="Spotify"><img src="https://img.shields.io/static/v1?color=1DB954&label=&logo=spotify&logoColor=white&message=Spotify&style=flat" alt="Spotify Logo" /></a>
   <a href="https://steamcommunity.com/id/byloth/" title="Steam"><img src="https://img.shields.io/static/v1?color=000000&label=&logo=steam&logoColor=white&message=Steam&style=flat" alt="Steam Logo" /></a>
-  <a href="https://twitter.com/byloth_dev" title="Twitter"><img src="https://img.shields.io/static/v1?color=1DA1F2&label=&logo=twitter&logoColor=white&message=Twitter&style=flat" alt="Twitter Logo" /></a>
+  <a href="https://twitter.com/byloth_dev" title="X (formerly Twitter)"><img src="https://img.shields.io/static/v1?color=000000&label=&logo=x&logoColor=white&message=X&style=flat" alt="Twitter (formerly Twitter) Logo" /></a>
   <sup>|</sup>
   <img src="https://komarev.com/ghpvc/?username=Byloth&abbreviated=true" />
 </div>
